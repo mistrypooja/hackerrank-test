@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+
+    <test name="PARTNERSHIP TEST">
+        <classes>
+            <class name="test.java.perkbox.usecases.Test_LatestNews"/>
+            <class name="test.java.perkbox.usecases.Test_NavigateAboutPage"/>
+            <class name="test.java.perkbox.usecases.Test_NavigateServicesPage"/>
+            <class name="test.java.perkbox.usecases.Test_NavigateWorkPage"/>
+            <class name="test.java.perkbox.usecases.Test_ValtechOffices"/>
+        </classes>
+    </test>
+
+
+</suite>
